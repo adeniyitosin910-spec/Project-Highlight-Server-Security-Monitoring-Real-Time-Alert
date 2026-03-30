@@ -24,7 +24,8 @@ Here’s what I implemented:
 
 * Integrated Slack for instant notifications
 * Configured alerts for unusual server activities
-* Enabled quick response to potential issues
+* Enabled quick response to potential issues ![Uploading Screenshot 2026-03-30 101742.png…]()
+
 
 ✅ Server Protection Strategy
 
