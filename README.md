@@ -1,4 +1,4 @@
-🔐 Project Highlight: Server Security, Monitoring & Real-Time Alerts
+ Project Highlight: Server Security, Monitoring & Real-Time Alerts
 
 I recently completed a hands-on project where I focused on securing and monitoring a Linux server using modern tools and best practices.
 
