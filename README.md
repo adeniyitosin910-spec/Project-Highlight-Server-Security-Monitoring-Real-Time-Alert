@@ -8,12 +8,16 @@ Here’s what I implemented:
 
 * Changed the default SSH port to reduce unauthorized access attempts
 * Configured secure login methods
-* Improved overall server access control
+* Improved overall server access control ![WhatsApp Image SSH ](https://github.com/user-attachments/assets/0f2ca952-f098-4960-bb25-fbb9eaa4c66e)
+![WhatsApp Image SSH 2](https://github.com/user-attachments/assets/2c3c4719-92f6-49ac-b916-d5a83df276cd)
+ ![WhatsApp Image 2 SSH 3](https://github.com/user-attachments/assets/fc2dd881-1638-4876-86b3-fb9f70ac3383)
+
 
 ✅ Monitoring with Datadog     
 * Installed and configured Datadog agent
 * Monitored system metrics such as CPU usage, memory, and disk performance
-* Set up dashboards for real-time visibility   <img width="1348" height="880" alt="Screenshot 2026-03-30 101859" src="https://github.com/user-attachments/assets/e602ee9e-0528-48c4-b8f6-e159495eafbc" />
+* Set up dashboards for real-time visibility   <img width="1348" height="880" alt="Screenshot 2026-03-30 101859" src="https://github.com/user-attachments/assets/e602ee9e-0528-48c4-b8f6-e159495eafbc" /> <img width="1120" height="869" alt="Screenshot 2026-03-26 112705" src="https://github.com/user-attachments/assets/1503443d-b760-457f-9bf3-9ce015a2f6a1" />
+
 
 
 ✅ Real-Time Alerts with Slack
