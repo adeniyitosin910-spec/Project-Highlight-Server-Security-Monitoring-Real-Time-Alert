@@ -10,11 +10,11 @@ Here’s what I implemented:
 * Configured secure login methods
 * Improved overall server access control
 
-✅ Monitoring with Datadog
-
+✅ Monitoring with Datadog     
 * Installed and configured Datadog agent
 * Monitored system metrics such as CPU usage, memory, and disk performance
-* Set up dashboards for real-time visibility
+* Set up dashboards for real-time visibility   <img width="1348" height="880" alt="Screenshot 2026-03-30 101859" src="https://github.com/user-attachments/assets/e602ee9e-0528-48c4-b8f6-e159495eafbc" />
+
 
 ✅ Real-Time Alerts with Slack
 
