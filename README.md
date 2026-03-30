@@ -24,7 +24,8 @@ Here’s what I implemented:
 
 * Integrated Slack for instant notifications
 * Configured alerts for unusual server activities
-* Enabled quick response to potential issues ![Uploading Screenshot 2026-03-30 101742.png…]()
+* Enabled quick response to potential issues <img width="1525" height="896" alt="Screenshot 2026-03-30 101742" src="https://github.com/user-attachments/assets/5683a0fe-b8e9-4dc5-b119-6305f491568e" 
+
 
 
 ✅ Server Protection Strategy
@@ -33,7 +34,7 @@ Here’s what I implemented:
 * Ensured proper monitoring to detect anomalies early
 * Built a system that keeps me informed of any activity on the server
 
-💡 Key Takeaway:
+important note:
 Proactive monitoring and proper configuration are essential for maintaining server security and performance. With the right tools and setup, it’s possible to detect and respond to issues before they become critical.
 
 This project strengthened my skills in Linux administration, cloud monitoring, and system security.
